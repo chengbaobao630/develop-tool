@@ -1,0 +1,21 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "cc.use-mybatis-plus",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    },
+    {
+      "name": "cc.use-dubbo",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    },
+    {
+      "name": "dubbo.registry.address",
+      "type": "java.lang.String",
+      "defaultValue": "zookeeper://localhost:2181"
+    }
+  ],
+  "hints": []
+}

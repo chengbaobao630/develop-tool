@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "name": "cc.dubbo",
+      "type": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties"
+    },
+    {
+      "name": "cc.mybatis.plus",
+      "type": "cc.develop.tool.config.mybatis.CcMybatisPlusProperties",
+      "sourceType": "cc.develop.tool.config.mybatis.CcMybatisPlusProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cc.dubbo.address",
+      "type": "java.lang.String",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties"
+    },
+    {
+      "name": "cc.dubbo.check",
+      "type": "java.lang.Boolean",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "cc.dubbo.name",
+      "type": "java.lang.String",
+      "description": "name: jingxuan.cart-adapter\n     check: false\n     register: true\n     protocol: zookeeper\n     retries: 0\n     timeout: 60000\n     protocolName: dubbo\n     payload: 10485760\n     owner: cheng.cheng",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties"
+    },
+    {
+      "name": "cc.dubbo.owner",
+      "type": "java.lang.String",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": "unknown"
+    },
+    {
+      "name": "cc.dubbo.payload",
+      "type": "java.lang.Integer",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": 10485760
+    },
+    {
+      "name": "cc.dubbo.protocol",
+      "type": "java.lang.String",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": "zookeeper"
+    },
+    {
+      "name": "cc.dubbo.protocol-name",
+      "type": "java.lang.String",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": "dubbo"
+    },
+    {
+      "name": "cc.dubbo.register",
+      "type": "java.lang.Boolean",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "cc.dubbo.retries",
+      "type": "java.lang.Integer",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "cc.dubbo.time-out",
+      "type": "java.lang.Integer",
+      "sourceType": "cc.develop.tool.config.dubbo.DubboInitProperties",
+      "defaultValue": 500
+    },
+    {
+      "name": "cc.mybatis.plus.mapper-locations",
+      "type": "java.lang.String[]",
+      "sourceType": "cc.develop.tool.config.mybatis.CcMybatisPlusProperties",
+      "defaultValue": ["classpath:mapper/*.xml"]
+    },
+    {
+      "name": "cc.use-dubbo",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    },
+    {
+      "name": "cc.use-mybatis-plus",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    },
+    {
+      "name": "dubbo.registry.address",
+      "type": "java.lang.String",
+      "defaultValue": "zookeeper://localhost:2181"
+    }
+  ],
+  "hints": []
+}

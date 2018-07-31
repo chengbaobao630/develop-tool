@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weimob:creeper-client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/creeper-client/1.0.0-SNAPSHOT/creeper-client-1.0.0-20170117.031956-30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/creeper-client/1.0.0-SNAPSHOT/creeper-client-1.0.0-20170117.031956-30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/creeper-client/1.0.0-SNAPSHOT/creeper-client-1.0.0-20170117.031956-30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

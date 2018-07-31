@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cc.develop.tool.config.BaseConfig,\
+  cc.develop.tool.config.mybatis.MybatisProfileConfig,\
+  cc.develop.tool.config.mybatis.plus.MybatisPlusConfig,\
+  cc.develop.tool.config.dubbo.DubboInitializer

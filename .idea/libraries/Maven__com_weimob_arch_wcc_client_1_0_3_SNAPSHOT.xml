@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weimob:arch-wcc-client:1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/arch-wcc-client/1.0.3-SNAPSHOT/arch-wcc-client-1.0.3-20170829.135550-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/arch-wcc-client/1.0.3-SNAPSHOT/arch-wcc-client-1.0.3-20170829.135550-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/arch-wcc-client/1.0.3-SNAPSHOT/arch-wcc-client-1.0.3-20170829.135550-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
